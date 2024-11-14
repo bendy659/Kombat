@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.benos.combat.mixins",
+  "compatibilityLevel": "JAVA_11",
+  "mixins": [],
+  "client": [],
+  "server": [],
+  "injectors": { "defaultRequire": 1 }
+}
