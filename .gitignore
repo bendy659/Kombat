@@ -26,3 +26,5 @@ replay_pid*
 # Project exclude paths
 /.gradle/
 /build/
+.idea
+run
